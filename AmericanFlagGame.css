@@ -1,0 +1,21 @@
+.flag{
+	height:200px;
+	width:200px;
+	display:none;
+	position:relative;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+.bold{
+	font-weight:bold;
+}
+
+#AmericanFlagGamePage{
+	height:100%;
+	width:100%;
+	background-color:#8A0F29;
+
+}
